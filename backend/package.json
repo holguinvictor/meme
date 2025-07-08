@@ -46,7 +46,7 @@
     "node-worker-threads-pool": "~1.5.1",
     "socks-proxy-agent": "~7.0.0",
     "typescript": "~4.7.4",
-    "ws": "~8.11.0"
+    "ws": "~8.18.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.7",
@@ -55,7 +55,7 @@
     "@types/crypto-js": "^4.1.1",
     "@types/express": "^4.17.15",
     "@types/jest": "^29.2.5",
-    "@types/ws": "~8.5.4",
+    "@types/ws": "~8.18.1",
     "@typescript-eslint/eslint-plugin": "^5.48.1",
     "@typescript-eslint/parser": "^5.48.1",
     "eslint": "^8.31.0",
